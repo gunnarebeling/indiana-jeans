@@ -1,0 +1,21 @@
+.submission{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 1px dashed plum;
+    background-color: aliceblue;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    font-size: smaller;
+}
+#button{
+    display: flex;
+    margin: 1rem;
+    margin-bottom: 2rem;
+    
+    justify-content: center;
+
+}
+button{
+    width: auto;
+}
